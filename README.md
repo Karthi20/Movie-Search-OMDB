@@ -1,5 +1,6 @@
 # Movie-Search-OMDB
-*Build a movie search website with the OMDb API using Javascript,HTML,CSS,Json,Ajax.
+Build a movie search website with the OMDb API using Javascript,HTML,CSS,Json,Ajax.
+
 
 *Given basic HTML/CSS, program the search form to return movie data in JSON format based on the form submission.
 * Use the API data to dynamically create HTML displaying a movie's title, year of release, and poster image.
